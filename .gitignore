@@ -1,0 +1,9 @@
+/vendor/
+/database/*.sqlite
+/database/install.lock
+/database/install.token
+/public/uploads/.cache/
+/.phpunit.result.cache
+/.idea/
+/.vscode/
+.DS_Store
